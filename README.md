@@ -1,1 +1,6 @@
-# ruby_basics
+# ruby_basics 
+
+* [LinkedIn Couse](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics-15650551/documentation?autoSkip=true&autoplay=true&resume=false&u=42751868)
+* [Documentations](https://ruby-doc.org/)
+* [Core](https://ruby-doc.org/core-2.7.1/)
+
