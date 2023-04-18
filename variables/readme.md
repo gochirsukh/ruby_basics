@@ -1,5 +1,5 @@
 
-| Global | $variable |
+| Variable Scope | Definition |
 |--------|-----------|
 | Global | $variable |
 |Class| @@variable | 
