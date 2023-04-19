@@ -47,7 +47,7 @@ irb(main):029:0> array[2, 4]
 ```
 
 
-### Array methods 
+### Array length methods 
 
 ```
 irb(main):030:0> array = ['a', '4', ['3', '65'], nil]
@@ -55,14 +55,15 @@ irb(main):031:0> array
 => ["a", "4", ["3", "65"], nil]
 irb(main):032:0> array.length
 => 4
+```
+
+### Array Reverse Methods
+
+```
 irb(main):033:0> array.reverse
 => [nil, ["3", "65"], "4", "a"]
 irb(main):034:0> 
-```
 
-### array method 
-
-```
 irb(main):035:0> array
 => [nil, ["3", "65"], "4", "a"]
 irb(main):036:0> array.reverse
@@ -89,7 +90,7 @@ irb(main):042:0> array.shuffle
 irb(main):043:0> 
 ```
 
-### Array unique 
+### Array unique method
 
 ```
 irb(main):048:0> array
@@ -99,7 +100,7 @@ irb(main):049:0> array.uniq
 irb(main):050:0> 
 ```
 
-### Query array 
+### Query array with include? method
 
 ```
 irb(main):051:0> array
@@ -137,7 +138,9 @@ irb(main):059:0>
 
 ### To Do 
 
-push 
-pop 
-shift 
-unshift 
+Need to practice with these
+
+* push 
+* pop 
+* shift 
+* unshift 
