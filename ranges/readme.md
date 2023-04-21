@@ -1,13 +1,12 @@
 ## Ranges
 
-### Inlusive range 
+### Inclusive Range 
 
 * tip-1  
 
 ```
 1..10
 ```
-
 
 * tip-2
 
@@ -66,8 +65,6 @@ irb(main):038:0>
 
 ```
 
-
-
 ### Exclusive Range 
 
 Should exlude the last integer in the range but it didn't in irb. Something to follow up
@@ -104,7 +101,3 @@ irb(main):029:0> exlusive_array
 => [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
 irb(main):030:0>
 ```
-
-* tip-4
-
-* tip-5 
