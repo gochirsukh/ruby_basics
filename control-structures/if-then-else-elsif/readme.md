@@ -4,7 +4,7 @@ reame
 
 
 ```
-if bookean 
+if boolean 
     ...
 end 
 ```
@@ -15,6 +15,13 @@ if fruit == 'apple'
 end 
 ```
 
-* ![image1](./images/image1.png)
-* ![image2](./images/image2.png)
+### Basic If
 * ![image3](./images/image3.png)
+
+### If Then Else
+* ![image2](./images/image2.png)
+
+### If Then ElsIf
+* ![image1](./images/image1.png)
+
+
