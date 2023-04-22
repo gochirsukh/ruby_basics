@@ -1,4 +1,4 @@
-## Comstants 
+## Constants 
 
 * Constrants are declared with all upper case or fiest letter of the contant needs to be in upper case 
 
@@ -13,6 +13,6 @@ irb(main):003:0> TEMP.class
 => Integer
 ```
 
-* ![constant](./image/image1.png)
-* ![constant](./image/image2.png)
-* ![constant](./image/image3.png)
+* ![constant](./images/image1.png)
+* ![constant](./images/image2.png)
+* ![constant](./images/image3.png)
