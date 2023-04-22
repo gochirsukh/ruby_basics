@@ -13,6 +13,6 @@ irb(main):003:0> TEMP.class
 => Integer
 ```
 
-![constant](./image/image1.png)
-![constant](./image/image2.png)
-![constant](./image/image3.png)
+* ![constant](./image/image1.png)
+* ![constant](./image/image2.png)
+* ![constant](./image/image3.png)
