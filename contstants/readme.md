@@ -1,6 +1,6 @@
 ## Constants 
 
-* Constrants are declared with all upper case or fiest letter of the contant needs to be in upper case 
+* Constants are declared with all upper case or the first letter of the contant needs to be in upper case 
 
 
 * Example-1
