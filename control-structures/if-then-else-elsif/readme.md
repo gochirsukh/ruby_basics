@@ -24,7 +24,4 @@ end
 ### If Then ElsIf
 * ![image1](./images/image1.png)
 
-### If Then ElsIf Else Example
-* ![image4](./images/image4.png)
-
 
