@@ -1,8 +1,4 @@
-## Case 
 
-* Example-1
-
-```
 count = 4
 
 case 
@@ -15,30 +11,4 @@ when (2..5).include?(count)
 else
     puts "too many people"
 end
-```
-
-* Example-2
-
-```
-```
-
-* Example-3
-
-```
-```
-
-* Example-4
-
-```
-```
-
-* Example-5
-
-```
-```
-
-* Example-6
-
-```
-```
 
