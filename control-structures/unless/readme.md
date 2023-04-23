@@ -2,7 +2,11 @@
 
 * It's negation of boolean 
 * Oppositive of boolean 
-* It's easier to read
+* It's a shorter way to use conditionals compared to if-then-else
+* Purpose of unless is to make the code read cleaner
+* Don't use `Unless` if it makes the code more confusing 
+
+
 
 ```
 unless boolean
