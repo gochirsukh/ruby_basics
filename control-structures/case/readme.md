@@ -1,6 +1,6 @@
 ## Case 
 
-* Example-1
+* Case with Boolean
 
 ```
 count = 4
@@ -17,28 +17,20 @@ else
 end
 ```
 
-* Example-2
+* Case with Comparision
 
 ```
-```
 
-* Example-3
+count = 4
 
+case 
+when count == 0
+    puts "nobody"
+when count == 1
+    puts "1 person"
+when 2..5
+    puts "several people"
+else
+    puts "too many people"
+end
 ```
-```
-
-* Example-4
-
-```
-```
-
-* Example-5
-
-```
-```
-
-* Example-6
-
-```
-```
-
