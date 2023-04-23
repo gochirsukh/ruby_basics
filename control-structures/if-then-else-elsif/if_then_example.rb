@@ -1,4 +1,6 @@
-x = 20
+
+
+x = 2
 
 if x <= 10 
     puts "10 or above"
