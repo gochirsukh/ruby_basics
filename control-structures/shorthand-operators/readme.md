@@ -106,6 +106,15 @@ set_limit ||= DEFAULT_LIMIT
 puts "set_limit var has a value, and it is: #{set_limit}"
 ```
 
+### Output
+
+```
+ruby example_of_shorthand.rb
+1 person
+If limit var has no value, it would use default: 100
+set_limit var has a value, and it is: 50
+```
+
 ## Statement Modifiers 
 
 ```
