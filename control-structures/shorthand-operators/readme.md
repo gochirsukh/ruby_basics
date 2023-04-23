@@ -127,3 +127,23 @@ puts "Hello" if greeting_enabled
 ```
 score += 10 unless score >= MAX_SCORE
 ```
+
+### Code Example of Statement Modifier
+
+```
+count = 1
+
+DEFAULT_LIMIT = 100
+limit = nil
+
+limit = DEFAULT_LIMIT unless limit 
+puts "Are you lonely?" if count == 1
+
+```
+
+### Output
+
+```
+ruby statement_modifier_example.rb
+Are you lonely?
+```
