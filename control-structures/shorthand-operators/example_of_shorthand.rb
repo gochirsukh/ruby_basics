@@ -9,8 +9,6 @@ limit = nil
 set_limit = 50
 
 max = limit || DEFAULT_LIMIT
-
-
 puts "If limit var has no value, it would use default: #{max}"
 
 
