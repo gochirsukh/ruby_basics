@@ -1,7 +1,5 @@
 ## Itererators 
 
-### Example-1
-
 * Apply procedure repeatiatly 
 * To perform code on each item in a set
 
@@ -16,16 +14,28 @@ end
 puts "Blast off!"
 ```
 
-### Example-2
+### Downto
 
-* xxx
-* xxx
+```
+5.downto(1) { puts "Hello" }
+```
 
-### Example-3
 
-* xxx
-* xxx
+### Each
 
-### Example-4
+```
+(1..5).each { puts "Hello" }
+```
 
-### Example-5
+### Times 
+
+```
+5.times { puts "hello"}
+```
+
+### Upto
+
+```
+1.upto(5) { puts "Hello" }
+```
+
