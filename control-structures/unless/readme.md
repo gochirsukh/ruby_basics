@@ -5,6 +5,8 @@
 * It's a shorter way to use conditionals compared to if-then-else
 * Purpose of unless is to make the code read cleaner
 * Don't use `Unless` if it makes the code more confusing 
+* `Unless` is equivalent of `not(!)`
+
 
 
 
@@ -58,3 +60,15 @@ end
 
 ```
 ```
+
+### Unless Quiz 
+
+What is the short hand of this block?
+
+```
+unless x 
+    x = y
+end 
+```
+
+* Answer is `x ||= y`
