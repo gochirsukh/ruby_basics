@@ -1,4 +1,4 @@
-#!/Users/go023012/.rbenv/shims/ruby
+#!/usr/bin/env ruby
 
 # Example 0
 (1..5).each { puts "Hello" }

@@ -1,3 +1,3 @@
-#!/Users/go023012/.rbenv/shims/ruby
+#!/usr/bin/env ruby
 
 1.upto(5) { puts "Hello" }

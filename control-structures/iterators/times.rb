@@ -1,4 +1,4 @@
-#!/Users/go023012/.rbenv/shims/ruby
+#!/usr/bin/env ruby
 
 # Example 1
 5.times { puts "Examle 1 - Bang Example 1"}
