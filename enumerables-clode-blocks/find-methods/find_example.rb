@@ -2,4 +2,4 @@
 
 fruits = ['apple', 'banana', 'pear']
 
-fruits.find {|fruit| fruit.lenth > 5}
+fruits.find {|fruit| fruit.length > 5}
