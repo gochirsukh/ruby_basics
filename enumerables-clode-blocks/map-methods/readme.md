@@ -2,7 +2,7 @@
 
 * `map` and `collect` are the same things 
 * Iterates through an emumarable
-* Executes code blocl on each item
+* Executes code block on each item
 * Add the result of the blocl to a new array
 * Number of items in = Number of items out
 
@@ -72,7 +72,7 @@ Avg: 600
 #### Exclamation Point in Ruby
 
 * `maps!` and `collect!`
-* Ruby iften adds "!" to indicate more powerfull of destructive version of a method
+* Ruby often adds "!" to indicate more powerfull of destructive version of a method
 * Works the same but replaces array contents 
 * in below example Items in the array is permanently changed 
 
