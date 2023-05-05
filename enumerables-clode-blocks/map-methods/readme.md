@@ -27,9 +27,6 @@ result of [1, 2, 3, 4, 5]
 result of [2, 3, 4, 5, 6]
 ```
 
-* lllll
-* lllll
-
 #### Collect example
 
 ```
@@ -50,9 +47,6 @@ puts "result of #{y}"
 result of [1, 2, 3, 4, 5]
 result of [50, 100, 150, 200, 250]
 ```
-
-* lllll
-* lllll
 
 #### Hash example 
 
@@ -75,13 +69,10 @@ High: 800
 Avg: 600
 ```
 
-* lllll
-* lllll
-
 #### Exclamation Point in Ruby
 
 * `maps!` and `collect!`
-* Ruby iften adds "!" to indicate more powerfull of destractive version of a method
+* Ruby iften adds "!" to indicate more powerfull of destructive version of a method
 * Works the same but replaces array contents 
 * in below example Items in the array is permanently changed 
 
@@ -104,17 +95,3 @@ Apple
 Banana
 Pear
 ```
-
-
-#### xxxx
-
-* lllll
-* lllll
-* lllll
-
-#### xxxx
-
-* lllll
-* lllll
-* lllll
-
