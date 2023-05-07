@@ -26,7 +26,7 @@ irb(main):003:0> 2 <=> 2
 irb(main):004:0> 
 ```
 
-### alternative sort - manual 
+### Alternative sort - manual 
 
 ```
 x = fruits.sort do |fruit1, fruit2|
@@ -48,11 +48,11 @@ apple
 
 ### Analogy
 
-* Binary tree search soft
+* Similar to Binary tree search?
 
 ### Sort in Actiom
 
-* sorted a numbers in an array
+* Sorted a numbers in an array
 
 ```
 irb(main):004:0> array = [4, 2, 4, 1, 2, 6, 9]
@@ -82,18 +82,3 @@ hash.sort { |p1, p2| p1[0] <=> p2[0]}
 ```
 {:a=>4, :c=>5, :b=>3}
 ```
-
-* mmmm
-* mmmm
-
-### xxxx
-
-* mmmm
-* mmmm
-* mmmm
-
-### xxxx
-
-* mmmm
-* mmmm
-* mmmm
