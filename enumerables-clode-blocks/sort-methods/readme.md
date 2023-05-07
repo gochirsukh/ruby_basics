@@ -50,7 +50,7 @@ apple
 
 * Similar to Binary tree search?
 
-### Sort in Actiom
+### Sort in Action
 
 * Sorted a numbers in an array
 
