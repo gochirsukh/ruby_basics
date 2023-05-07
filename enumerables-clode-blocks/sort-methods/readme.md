@@ -11,8 +11,8 @@
 * value1 < = > 
 * Returns 3 values 
 * `- 1` (Less than - Moves to the left) 
-* 0 (Equal -  Stays)
-* 1 (More than - Moves to the right)
+* `0` (Equal -  Stays)
+* `1` (More than - Moves to the right)
 
 * Examples 
 
