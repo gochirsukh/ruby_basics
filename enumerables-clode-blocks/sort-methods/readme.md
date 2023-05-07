@@ -26,6 +26,26 @@ irb(main):003:0> 2 <=> 2
 irb(main):004:0> 
 ```
 
+### alternative sort - manual 
+
+```
+x = fruits.sort do |fruit1, fruit2|
+    case fruit1
+    when 'apple'; 1
+    when 'banana'; -1
+    when 'pear'; 0
+    end
+end
+```
+
+* Output 
+
+```
+banana
+pear
+apple
+```
+
 ### Analogy
 
 * Binary tree search soft
@@ -39,7 +59,7 @@ irb(main):004:0> array = [4, 2, 4, 1, 2, 6, 9]
 irb(main):005:0> x = array.sort { |v1, v2| v1 <=> v2 }
 irb(main):006:0> x
 => [1, 2, 2, 4, 4, 6, 9]
-irb(main):007:0> 
+
 ```
 
 ### xxxx

@@ -3,7 +3,12 @@
 fruits = ['banana', 'apple', 'pear']
 
 x = fruits.sort do |fruit1, fruit2|
-    fruit1.length <=> fruit2.length
+    case fruit1
+    when 'apple'; 1
+    when 'banana'; -1
+    when 'pear'; 0
+    end
 end
 
 puts x 
+
