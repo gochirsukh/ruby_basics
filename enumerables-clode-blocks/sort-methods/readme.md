@@ -62,15 +62,27 @@ irb(main):006:0> x
 
 ```
 
-### xxxx
+### The imfamious exclamantion point in sort
 
-* mmmm
-* mmmm
-* mmmm
+* `sort!` / `sort_by!`
+* Relpaces the array contents
 
-### xxxx
+### Sorting hash
 
-* mmmm
+* Converts the hash to an array
+
+```
+hash = {a: 4, c: 5, b: 3}
+
+hash.sort { |p1, p2| p1[0] <=> p2[0]}
+```
+
+* Output 
+
+```
+{:a=>4, :c=>5, :b=>3}
+```
+
 * mmmm
 * mmmm
 
