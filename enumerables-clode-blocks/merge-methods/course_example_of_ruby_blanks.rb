@@ -5,7 +5,7 @@ puts "| Ruby Blanks |"
 puts "-" * 15
 
 
-blanks = ['verb', 'adjective', 'adjcetive', 'noun']
+blanks = ['verb', 'adjective', 'adjective', 'noun']
 
 vowels = ['a', 'e', 'i', 'o', 'u']
 
