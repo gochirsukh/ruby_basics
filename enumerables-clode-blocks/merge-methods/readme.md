@@ -25,11 +25,6 @@ irb(main):007:0> h1.merge(h2) { |key,old,new| old}
 => {:a=>2, :b=>4, :c=>6, :d=>8}
 irb(main):008:0>
 ```
-
-* mmmm
-* mmmm
-* mmmm
-
 #### Example
 
 ```
@@ -39,50 +34,6 @@ irb(main):009:0> h1.merge(h2) { |k,o,n| o * n}
 => {:a=>6, :b=>16, :c=>6, :d=>8}
 irb(main):010:0>
 ```
-
-* mmmm
-* mmmm
-* mmmm
-
 #### Ruby Blanks 
 
 * Also known as math libs
-
-* mmmm
-* mmmm
-
-#### xxxx
-
-* mmmm
-* mmmm
-* mmmm
-
-#### xxxx
-
-* mmmm
-* mmmm
-* mmmm
-
-#### xxxx
-
-* mmmm
-* mmmm
-* mmmm
-
-#### xxxx
-
-* mmmm
-* mmmm
-* mmmm
-
-#### xxxx
-
-* mmmm
-* mmmm
-* mmmm
-
-#### xxxx
-
-* mmmm
-* mmmm
-* mmmm
