@@ -74,18 +74,3 @@ blanker_patterns('++*~~*++', 20)
 * ssss
 * ssss
 * ssss
-
-### xxxx
-
-* ssss
-* ssss
-* ssss
-
-### xxxx
-
-* ssss
-* ssss
-* ssss
-
-### xxxx
-
