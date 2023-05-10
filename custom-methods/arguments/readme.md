@@ -1,68 +1,51 @@
-## title 
+## Arguments 
 
+* Allow a method to receive values at runtime when it's called
+* Comma-seperated list of variables after the method name
+* Args
+* Order and number of arguments passed must match the definition
 
-#### xxxx
+#### Example
 
-* sssss
-* sssss
-* sssss
+```
+def vol(x, y, z)
+    x * y * z
+end 
 
-#### xxxx
+puts vol(10, 23, 12)
+```
 
-* sssss
-* sssss
-* sssss
+* Output
 
-#### xxxx
+```
+2760
+```
 
-* sssss
-* sssss
-* sssss
+#### Argument Parentheses
 
-#### xxxx
+* Always optional 
+* Methods with argument use them
+* Methods without argument do not use them
+* Both when defining and calling methods
 
-* sssss
-* sssss
-* sssss
+#### Empty Parentheses
 
-#### xxxx
+```
+def weclome()
+    puts "Hello World"
+end 
 
-* sssss
-* sssss
-* sssss
+weclome()
+```
 
-#### xxxx
+#### Arguments: Without Parentheses
 
-* sssss
-* sssss
-* sssss
+* This is still a valid ruby
 
-#### xxxx
+```
+def vol x, y, z
+    x * y * z
+end 
 
-* sssss
-* sssss
-* sssss
-
-#### xxxx
-
-* sssss
-* sssss
-* sssss
-
-#### xxxx
-
-* sssss
-* sssss
-* sssss
-
-#### xxxx
-
-* sssss
-* sssss
-* sssss
-
-#### xxxx
-
-* sssss
-* sssss
-* sssss
+puts vol 2, 3, 4 
+```
