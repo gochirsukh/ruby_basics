@@ -1,27 +1,73 @@
 ## Custom methods 
 
-### xxxx
+* Instructions to perform a specific task, packaged as a unit
+* Can be defined multiple times
+* Don't repeat yourself
 
-* ssss
-* ssss
-* ssss
+### Method names
 
-### xxxx
+* Lower case with underscores
+* underscrores, letters and digit
+* `!` can be used. It means disructive
 
-* ssss
-* ssss
-* ssss
+### Define and call methods
 
-### xxxx
+```
+def some_name
+    # ...
+end 
+```
 
-* ssss
-* ssss
-* ssss
+* Basic Example
 
-### xxxx
-* ssss
-* ssss
-* ssss
+```
+def welcome
+    puts "hello world"
+end 
+
+welcome
+```
+### Example
+
+```
+#!/usr/bin/env ruby
+
+def blanker_patterns(colors, lines)
+    lines.times do |i|
+        first = colors[0]
+        rest = colors[1..-1]
+        colors = rest + first 
+        puts colors
+    end 
+end 
+
+blanker_patterns('++*~~*++', 20)
+```
+
+* Output 
+
+```
++*~~*+++
+*~~*++++
+~~*++++*
+~*++++*~
+*++++*~~
+++++*~~*
++++*~~*+
+++*~~*++
++*~~*+++
+*~~*++++
+~~*++++*
+~*++++*~
+*++++*~~
+++++*~~*
++++*~~*+
+++*~~*++
++*~~*+++
+*~~*++++
+~~*++++*
+~*++++*~
+```
 
 ### xxxx
 
