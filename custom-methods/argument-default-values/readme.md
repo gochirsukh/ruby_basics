@@ -3,7 +3,7 @@
 * Default value can be any Ruby Object
 * Required argument listed first
 * Optional argument listed last
-* xxx
+* test
 
 
 #### Standard Naive Example without a default value
