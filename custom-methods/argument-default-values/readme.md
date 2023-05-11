@@ -1,13 +1,30 @@
-## title 
+## Argument Default values  
+
+* Default value can be any Ruby Object
+* Required argument listed first
+* Optional argument listed last
+* xxx
 
 
-#### xxxx
+#### Standard Naive Example without a default value
 
-* sssss
-* sssss
-* sssss
+```
+def welcome(greeting, name, punct)
+    greeting + ' ' + name + punct
+end 
 
-#### xxxx
+puts welcome('Hello', 'friend', '!')
+```
+
+#### Method with a dafault value 
+
+```
+def welcome(greeting, name, punct = '!')
+    greeting + ' ' + name + punct
+end 
+
+puts welcome('Hello', 'friend')
+```
 
 * sssss
 * sssss
