@@ -11,34 +11,38 @@
 * Methods that only return values that are more flexible 
 * Exception: methods designed strictly for output 
 
-#### xxxxx
+#### Multiple value returns
 
-* sssss
-* sssss
-* sssss
+```
+def add_and_suntract(n1, n2)
+    add = n1 + n2
+    sub = n1 - n2
+    [add, sub]
+end 
 
-#### xxxxx
+# result = add_and_suntract(8, 3)
+# a = result[0]
+# s = result[1]
 
-* sssss
-* sssss
-* sssss
+# multiple assignment
+a, s = add_and_suntract(8, 3)
+puts "addition: #{a}"
+puts "subtraction: #{s}"
+```
 
-#### xxxxx
+#### Alternative
 
-* sssss
-* sssss
-* sssss
+```
+def add_and_suntract(n1, n2)
+    add = n1 + n2
+    sub = n1 - n2
+    [add, sub]
+end 
 
-#### xxxxx
+result = add_and_suntract(8, 3)
+a = result[0]
+s = result[1]
 
-* sssss
-* sssss
-* sssss
-
-#### xxxxx
-
-* sssss
-* sssss
-* sssss
-
-#### xxxxx
+puts "addition: #{a}"
+puts "subtraction: #{s}"
+```
