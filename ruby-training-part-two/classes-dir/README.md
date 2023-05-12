@@ -1,46 +1,59 @@
-## title
+## Class
 
-#### xxxxx
-
-* ssss
+* Code grouped by a common theme or purpose that provides a template of the state and behaviour of objects created from it
 * ssss
 * ssss
 
-#### xxxxx
+#### Class Attr
 
-* ssss
-* ssss
-* ssss
+* Integer, float
+* String
+* Array, hash, range 
+* symbol
+* TrueClass, FalseClass, NilClass
 
-#### xxxxx
 
-* ssss
-* ssss
-* ssss
+#### Built-in Class
 
-#### xxxxx
+* "pasta".class
+* [1,2,3].class
+* nil.class
 
-* ssss
-* ssss
-* ssss
+#### Class Structure
 
-#### xxxxx
+```
+class ShoppingCard 
+    xxx
+end 
+```
 
-* ssss
-* ssss
-* ssss
+#### Define a class
 
-#### xxxxx
+* Use singular nouns for class names
+* Capitalized and camel case names
+* Define each class in a seperate file
+* Group class files in a direectory
+* Classes in Ruby can be redefined without an error in Ruby
 
-* ssss
-* ssss
-* ssss
+#### Characterisics of Class
 
-#### xxxxx
+* A template of the state and behavior of objects
+* Attributes = State
+* Method = Behavior
 
-* ssss
-* ssss
-* ssss
+#### Class Method Example
+
+```
+class ShoppingCard 
+    def quantity
+        xxx
+    end 
+
+    def total
+        xxx 
+    end 
+end 
+```
 
 #### xxxxx
 
