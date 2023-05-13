@@ -10,40 +10,28 @@
 * Instance var aren't accessible from outside an instance
 * Methods are accessible from outside an instance
 
-#### xxxxx
+#### Examples 
 
-* ssss
-* ssss
-* ssss
+* Class  
 
-#### xxxxx
+```
+class Animal 
+    def noise
+        @noise 
+    end 
 
-* ssss
-* ssss
-* ssss
+    def noise=(value)
+        @noise = value
+    end
+end
+```
 
-#### xxxxx
+* Init program that calls the class 
 
-* ssss
-* ssss
-* ssss
+```
+require_relative 'classes/animal'
 
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
+pig = Animal.new
+pig.noise = 'ooohoooh'
+puts pig.noise
+```
