@@ -1,51 +1,44 @@
-## title
+## Attribute Method
 
-#### xxxxx
+* `attr_*` methods
+* `attr_reader`
+* `attr_writer`
+* `attr_accessor`
 
-* ssss
-* ssss
-* ssss
+#### Example of attr_accessor
 
-#### xxxxx
+* Class 
 
-* ssss
-* ssss
-* ssss
+```
+class Animal 
+    attr_accessor :noise
+end
+```
 
-#### xxxxx
+* Init code
 
-* ssss
-* ssss
-* ssss
+```
+require_relative 'classes/animal'
+pig = Animal.new
+pig.noise = 'ooohoooh'
+puts pig.noise
 
-#### xxxxx
+```
 
-* ssss
-* ssss
-* ssss
+#### Naive Version of attr_accessor
 
-#### xxxxx
+```
+def name
+    @name 
+end 
+```
 
-* ssss
-* ssss
-* ssss
+#### xxx
+#### xxx
 
-#### xxxxx
 
-* ssss
-* ssss
-* ssss
 
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
+pig = Animal.new
+pig.noise = 'ooohoooh'
+puts pig.noise
+```
