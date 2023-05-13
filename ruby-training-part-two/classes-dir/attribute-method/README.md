@@ -6,6 +6,7 @@
 * Add `self` when calling writer methods (`self.first_name =`)
 * Helps Ruby understand to call the method
 * Omit `self` when calling any other method (`first_name`)
+* Including `self` is always the safest choise
 
 #### Attribute Method
 
