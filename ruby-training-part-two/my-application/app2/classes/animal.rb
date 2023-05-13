@@ -3,7 +3,7 @@ class Animal
         @noise 
     end 
 
-    def set_noise
-        @noise = 'Oinke'
+    def set_noise(value)
+        @noise = value
     end
 end
