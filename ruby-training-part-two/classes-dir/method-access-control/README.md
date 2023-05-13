@@ -19,48 +19,12 @@ class SomeClass
     def method1
     end 
 
-    protected
+protected
     def method2
     end
 
-    private
+private
     def method3
     end
 end 
 ```
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
