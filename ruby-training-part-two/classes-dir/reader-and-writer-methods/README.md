@@ -38,6 +38,11 @@ puts pig.noise
 
 #### attr reader and writer example 
 
+* The ones in commented out section is the longer version 
+* The example is to illustrate `attr_reader` and `attr_writer`
+* `attr_reader` and `attr_writer` are shorthand notation of something that could be written in multiple lines 
+
+
 ```
 class Person 
 
