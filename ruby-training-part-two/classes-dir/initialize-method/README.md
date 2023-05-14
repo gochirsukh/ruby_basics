@@ -1,10 +1,9 @@
-## title
+## Initialize Method
 
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
+* Method called automatically whenver a new instance of a class is created
+* `ShoppingCard.new`
+* Useful to set attributes to a default or specfic state
+* Accept arguments
 
 #### xxxxx
 

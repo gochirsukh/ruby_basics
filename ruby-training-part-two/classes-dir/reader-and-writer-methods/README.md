@@ -35,3 +35,31 @@ pig = Animal.new
 pig.noise = 'ooohoooh'
 puts pig.noise
 ```
+
+#### attr reader and writer example 
+
+```
+class Person 
+
+    attr_reader :name
+    # def name
+    #     @name
+    # end
+
+    attr_writer :name
+    # def name=(str)
+    #     @name = str
+    # end
+    
+end
+```
+
+* Init Code 
+
+```
+require_relative 'classes/person'
+
+person = Person.new
+person.name = 'Dennis'
+puts person.name
+```
