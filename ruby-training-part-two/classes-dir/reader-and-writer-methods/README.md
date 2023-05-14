@@ -71,3 +71,36 @@ person.name = 'Dennis'
 
 puts person.name
 ```
+
+
+#### attr_accessor explained 
+
+* `attr_accessor` combines both `attr_reader` and `attr_writer`
+
+```
+class Person2 
+
+    attr_accessor :name
+
+    def greeting 
+        "Hello #{@name}"
+    end
+        
+end
+```
+
+* init code 
+
+```
+require_relative 'classes/person2'
+
+person = Person2.new
+person.name = 'Dennis'
+puts person.greeting
+```
+
+* Output 
+
+```
+Hello Dennis
+```
