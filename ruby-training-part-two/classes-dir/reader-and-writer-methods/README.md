@@ -65,6 +65,6 @@ end
 require_relative 'classes/person'
 
 person = Person.new
-person.name = 'Dennis'
+person.name = 'Dennis' #Note: this is the result of attr_writer method
 puts person.name
 ```
