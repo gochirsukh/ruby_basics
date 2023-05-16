@@ -2,13 +2,13 @@
 
 #### Part One
 
-* xxx
-* xxx
-* xxx
+* Basics
 
 #### Part Two
 
-* xxx
-* xxx
-* xxx
+* Talks about classes and methods 
 
+### Resources 
+
+* [Ruby tutorials Video](https://www.youtube.com/@JesusCastello/videos)
+* [Ruby Self Is Explained](https://www.rubyguides.com/2020/04/self-in-ruby/)
