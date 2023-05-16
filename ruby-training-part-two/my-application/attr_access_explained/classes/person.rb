@@ -9,7 +9,6 @@ class Person
     # def name=(str)
     #     @name = str
     # end
-
     
 end
 

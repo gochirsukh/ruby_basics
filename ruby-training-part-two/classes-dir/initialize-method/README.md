@@ -5,9 +5,36 @@
 * Useful to set attributes to a default or specfic state
 * Accept arguments
 
-#### xxxxx
+#### Example 
 
-* ssss
+```
+class Animal 
+
+    attr_accessor :noise 
+
+    def initialize
+        @noise = 'Oink'
+        puts "New animal instantiated"
+    end 
+end
+```
+
+* init code 
+
+```
+require_relative 'classes/animal'
+
+pig = Animal.new
+puts pig.noise
+```
+
+* Output 
+
+```
+New animal instantiated
+Oink
+```
+
 * ssss
 * ssss
 
