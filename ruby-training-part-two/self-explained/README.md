@@ -15,3 +15,5 @@ puts Salad.buy_olive_oil
 * Resource 
 
 [self in ruby](https://www.rubyguides.com/2020/04/self-in-ruby/)
+
+[Rubby Self Video](https://www.youtube.com/watch?v=3CMEr2_zXCw)
