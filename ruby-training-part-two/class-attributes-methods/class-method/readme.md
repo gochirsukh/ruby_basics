@@ -1,4 +1,4 @@
-#### Class Method
+## Class Method
 
 * Behaviors related to a class generally, not to a specific instance
 * Called directly on the class, not on an instance
