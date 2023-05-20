@@ -4,11 +4,14 @@
 * Stored in the class, not on an instance
 * ssss
 
-#### xxxxxx
+#### Variale Scope Indicators
 
-* ssss
-* ssss
-* ssss
+|---|----|
+| Global | $variable |
+| Class | @@variable |
+| Instance | @variable |
+| Local | variable |
+| Block | variable |
 
 #### xxxxxx
 
