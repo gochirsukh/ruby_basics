@@ -6,6 +6,7 @@
 
 #### Variale Scope Indicators
 
+| Key | Value |
 |---|----|
 | Global | $variable |
 | Class | @@variable |
