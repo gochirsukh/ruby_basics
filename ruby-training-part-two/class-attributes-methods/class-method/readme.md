@@ -7,34 +7,5 @@
 #### What is Self with in Class method?
 
 * Is it a placeholder? 
-    Per the instruction, `self` is a stand-in for the class name and can be replaced with instance name
-
-#### 
-
-* ssss
-* ssss
-* ssss
-
-#### 
-
-* ssss
-* ssss
-* ssss
-
-#### 
-
-* ssss
-* ssss
-* ssss
-
-#### 
-
-* ssss
-* ssss
-* ssss
-
-#### 
-
-* ssss
-* ssss
-* ssss
+* Per the instruction, `self` is a stand-in for the class
+name and can be replaced with instance name
