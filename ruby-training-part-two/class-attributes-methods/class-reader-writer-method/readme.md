@@ -5,7 +5,7 @@
 * Ruby on Rails has `cattr_*` but Ruby doesn't have it yet
 * 
 
-#### Exanple 
+#### Example 
 
 * In this example `self.species` method works as class **reader** and **writer** method
 
@@ -23,38 +23,3 @@ class Animal
     end
 end 
 ```
-
-* xxxx
-* xxxx
-* xxxx
-
-#### xxxxx 
-
-* xxxx
-* xxxx
-* xxxx
-
-#### xxxxx 
-
-* xxxx
-* xxxx
-* xxxx
-
-#### xxxxx 
-
-* xxxx
-* xxxx
-* xxxx
-
-#### xxxxx 
-
-* xxxx
-* xxxx
-* xxxx
-
-
-#### xxxxx 
-
-* xxxx
-* xxxx
-* xxxx
