@@ -6,5 +6,10 @@ require_relative 'classes/cow'
 
 pig = Pig.new
 cow = Cow.new
-puts pig.noise
-puts cow.noise
+puts "Pig goes #{pig.noise}"
+puts "Pig Looks like #{pig.color}"
+puts "Cow goes #{cow.noise}"
+
+# cow2 = Cow.new({noise: 'Umbuuuuuu!'})
+# puts "Cow goes #{cow2.noise}"
+
