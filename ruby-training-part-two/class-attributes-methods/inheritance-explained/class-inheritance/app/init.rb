@@ -8,8 +8,13 @@ pig = Pig.new
 cow = Cow.new
 puts "Pig goes #{pig.noise}"
 puts "Pig Looks like #{pig.color}"
-puts "Cow goes #{cow.noise}"
 
-# cow2 = Cow.new({noise: 'Umbuuuuuu!'})
-# puts "Cow goes #{cow2.noise}"
+# Class is extended by adding 'eat' methid
+puts pig.eat
+
+# Classes are extended
+puts "Cow goes #{cow.noise}"
+puts cow.jump
+
+
 
