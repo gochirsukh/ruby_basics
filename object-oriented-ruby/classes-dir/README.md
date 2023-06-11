@@ -1,8 +1,6 @@
 ## Class
 
 * Code grouped by a common theme or purpose that provides a template of the state and behaviour of objects created from it
-* ssss
-* ssss
 
 #### Class Attr
 
@@ -54,11 +52,3 @@ class ShoppingCard
     end 
 end 
 ```
-
-#### xxxxx
-
-* ssss
-* ssss
-* ssss
-
-#### xxxxx
