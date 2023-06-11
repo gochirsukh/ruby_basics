@@ -1,18 +1,13 @@
 ## Ruby Training
 
-#### Part One
+The repository is devided into two parts. Part one includes fundational Ruby such as variables, control flow, loops and more. 
+A part two takes deep dive into **OOP** 
 
-* Basics
-
-#### Part Two
-
-* Talks about classes and methods 
+* [Ruby Basics Fundamentals](./ruby-basics-fundamentals)
+* [Object Oriented Ruby](./object-oriented-ruby)
 
 ### Resources 
 
 * [Ruby tutorials Video](https://www.youtube.com/@JesusCastello/videos)
 * [Ruby Self Is Explained](https://www.rubyguides.com/2020/04/self-in-ruby/)
-
-#### To Do 
-
-* [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html) THIS IS IMPORTANT ONE!
+* [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html) 
