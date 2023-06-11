@@ -1,7 +1,7 @@
 ## Ruby Training
 
-The repository is devided into two parts. Part one includes fundational Ruby such as variables, control flow, loops and more. 
-A part two takes deep dive into **OOP** 
+The repository is devided into two parts. Part one includes fundational Ruby such as variables, control flows, loops and more. 
+A part two takes a deep dive into **Objected Oriented Programming** with **Ruby** 
 
 * [Ruby Basics Fundamentals](./ruby-basics-fundamentals)
 * [Object Oriented Ruby](./object-oriented-ruby)
